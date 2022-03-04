@@ -60,7 +60,7 @@ Project Ini Saya Buat Untuk Pribadi Untuk Menambahkan Data Inventory Rumah, Dan 
 
 ## License
 
-PRADANA INDUSTRIES 2020
+PRADANA INDUSTRIES 2022
 
 ## DREAM & SKILL & TOOLS:
 <img
