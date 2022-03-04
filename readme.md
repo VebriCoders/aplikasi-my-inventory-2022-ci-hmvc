@@ -21,7 +21,7 @@ Project Ini Saya Buat Untuk Pribadi Untuk Menambahkan Data Inventory Rumah, Dan 
   height="100"
 />
 
-[![Stisla Preview](https://github.com/VebriCoders/VebriCoders/blob/9e47c5108c18ed1a1a2e0b8ed2be3d069f6c1169/aplikasi-my-inventory-2022-ci-hmvc.png)](https://getstisla.com)
+[![Stisla Preview](https://github.com/VebriCoders/VebriCoders/blob/9e47c5108c18ed1a1a2e0b8ed2be3d069f6c1169/aplikasi-my-inventory-2022-ci-hmvc.png)](https://instagram.com/bri_vebri)
 
 ## Tools & Sistem
 
