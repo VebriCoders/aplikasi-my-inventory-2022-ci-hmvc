@@ -97,7 +97,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 	<div id="container">
 
 		<div id="body">
-			<code>Dibuat Pada : 14 January 2022 | Selesai Pada : 17 January 2022</code>
+			<code>Dibuat Pada : 24 January 2022 | Selesai Pada : 27 January 2022</code>
 
 			<p class="footer">Page rendered in <strong>{elapsed_time}</strong> seconds. <?php echo (ENVIRONMENT === 'development') ?  'CodeIgniter Version <strong>' . CI_VERSION . '</strong>' : '' ?></p>
 		</div>
