@@ -22,8 +22,8 @@ Admin Account :
 
 Project Detail :
 
-- Dibuat Pada = 14 January 2022
-- Selesai Pada = 17 January 2022
+- Dibuat Pada = 24 January 2022
+- Selesai Pada = 27 January 2022
 
 ## Website Ini Untuk Portofolio Saya Mendaftar Bintara Bakomsus TI Polri 2022
 
