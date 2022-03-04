@@ -76,8 +76,8 @@ CREATE TABLE `tbl_setting` (
 INSERT INTO `tbl_setting` (`id`, `nama_setting`, `isi_setting`) VALUES
 (1, 'nama-aplikasi', 'PINDUS'),
 (2, 'logo-aplikasi', 'LogoWebsite_1640702097.png'),
-(3, 'email-aplikasi', 'pradanaindustries.project@gmail.com'),
-(4, 'password-email-aplikasi', 'PASSWORDEMAILPINDUS');
+(3, 'email-aplikasi', 'EMAILKAMU'),
+(4, 'password-email-aplikasi', 'PASSWORDEMAILKAMU');
 
 -- --------------------------------------------------------
 
