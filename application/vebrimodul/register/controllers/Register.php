@@ -107,8 +107,8 @@ class Register extends MX_Controller
         $config = [
             'protocol'  => 'smtp',
             'smtp_host' => 'ssl://smtp.googlemail.com',
-            'smtp_user' => 'pradanaindustries.project@gmail.com',
-            'smtp_pass' => 'PindusProjectBaru**PastiBaru2234',
+            'smtp_user' => '',
+            'smtp_pass' => '',
             'smtp_port' => 465,
             'mailtype'  => 'html',
             'charset'   => 'utf-8',
@@ -117,7 +117,7 @@ class Register extends MX_Controller
 
         $this->email->initialize($config);
 
-        $this->email->from('pradanaindustries.project@gmail.com', 'PINDUS PROJECT EMAIL AUTHENTICATION');
+        $this->email->from('email', 'PINDUS PROJECT EMAIL AUTHENTICATION');
         $this->email->to($email);
 
         if ($type == 'verify') {
